@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="tr.xip.timetable.DepartmentActivity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/deptname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="60dp"
+        android:text="Department Name"
+        android:textAlignment="center"
+        android:textColor="@color/DarkCyan"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteY="29dp"/>
+
+    <Button
+        android:id="@+id/fs"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="First Semester"
+        android:textColor="@color/White"
+
+        android:background="@color/colorPrimary"
+        android:layout_margin="10dp"/>
+<android.support.v4.widget.Space
+    android:layout_width="match_parent"
+    android:layout_height="10dp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="Second Semester"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/White"
+        android:layout_margin="10dp"/>
+    <android.support.v4.widget.Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="Third Semester"
+        android:textColor="@color/White"
+        android:background="@color/colorPrimary"
+        android:layout_margin="10dp" />
+
+</LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

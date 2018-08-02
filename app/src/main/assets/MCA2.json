@@ -1,0 +1,254 @@
+[
+  {
+    "id": "2",
+    "name": "DBMS-LAB",
+    "prof": "SJ,SK,BNN,RG",
+    "place": "AB-402",
+    "day": "1",
+    "startTime": "9",
+    "endTime": "11"
+  },
+  {
+    "id": "1",
+    "name": "MIS",
+    "prof": "NM",
+    "place": "AB-402",
+    "day": "1",
+    "startTime": "11",
+    "endTime": "12"
+  },
+  {
+    "id": "3",
+    "name": "DBMS",
+    "prof": "BNN",
+    "place": "AB-402",
+    "day": "1",
+    "startTime": "12",
+    "endTime": "13"
+  },
+  {
+    "id": "4",
+    "name": "Lunch Break",
+    "prof": "",
+    "place": "",
+    "day": "1",
+    "startTime": "13",
+    "endTime": "14"
+  },
+  {
+    "id": "5",
+    "name": "C++",
+    "prof": "MK",
+    "place": "AB-402",
+    "day": "1",
+    "startTime": "14",
+    "endTime": "15"
+  },
+  {
+    "id": "6",
+    "name": "JSF & DAS-LAB",
+    "prof": "MB,MM,DEG,SK",
+    "place": "MCA-LAB1",
+    "day": "1",
+    "startTime": "15",
+    "endTime": "17"
+  },
+  {
+    "id": "7",
+    "name": "DAS-TUT",
+    "prof": "SK",
+    "place": "AB-402",
+    "day": "2",
+    "startTime": "9",
+    "endTime": "11"
+  },
+  {
+    "id": "8",
+    "name": "DS",
+    "prof": "CV,NM,BNN,RG",
+    "place": "AB-402",
+    "day": "2",
+    "startTime": "11",
+    "endTime": "13"
+  },
+  {
+    "id": "9",
+    "name": "Lunch Break",
+    "prof": "",
+    "place": "",
+    "day": "2",
+    "startTime": "13",
+    "endTime": "14"
+  },
+  {
+    "id": "10",
+    "name": "DS",
+    "prof": "NM",
+    "place": "AB-402",
+    "day": "2",
+    "startTime": "14",
+    "endTime": "15"
+  },
+  {
+    "id": "11",
+    "name": "DAS & JSF-LAB",
+    "prof": "DEG,SA,SK,MB",
+    "place": "MCA-LAB1",
+    "day": "2",
+    "startTime": "15",
+    "endTime": "17"
+  },
+  {
+    "id": "12",
+    "name": "JSF & DAS-LAB",
+    "prof": "DEG,SA,SK,MB",
+    "place": "MCA-LAB1",
+    "day": "3",
+    "startTime": "9",
+    "endTime": "11"
+  },
+  {
+    "id": "13",
+    "name": "DS",
+    "prof": "NM",
+    "place": "AB-402",
+    "day": "3",
+    "startTime": "11",
+    "endTime": "12"
+  },
+  {
+    "id": "14",
+    "name": "C++",
+    "prof": "MK",
+    "place": "AB-402",
+    "day": "3",
+    "startTime": "12",
+    "endTime": "13"
+  },
+  {
+    "id": "15",
+    "name": "Lunch Break",
+    "prof": "",
+    "place": "",
+    "day": "3",
+    "startTime": "13",
+    "endTime": "14"
+  },
+  {
+    "id": "16",
+    "name": "MIS",
+    "prof": "NM",
+    "place": "AB-402",
+    "day": "3",
+    "startTime": "14",
+    "endTime": "15"
+  },
+  {
+    "id": "17",
+    "name": "JSF-TUT",
+    "prof": "MB",
+    "place": "AB-402",
+    "day": "3",
+    "startTime": "15",
+    "endTime": "17"
+  },
+  {
+    "id": "18",
+    "name": "JSF & DAS-LAB",
+    "prof": "DEG,SA,SK,MB",
+    "place": "MCA-LAB1",
+    "day": "4",
+    "startTime": "9",
+    "endTime": "11"
+  },
+  {
+    "id": "19",
+    "name": "C++-TUT",
+    "prof": "DEG,SA,SK,MB",
+    "place": "AB-402",
+    "day": "4",
+    "startTime": "11",
+    "endTime": "13"
+  },
+  {
+    "id": "20",
+    "name": "Lunch Break",
+    "prof": "",
+    "place": "",
+    "day": "4",
+    "startTime": "13",
+    "endTime": "14"
+  },
+  {
+    "id": "21",
+    "name": "DBMS",
+    "prof": "BNN",
+    "place": "AB-402",
+    "day": "4",
+    "startTime": "14",
+    "endTime": "15"
+  },
+  {
+    "id": "22",
+    "name": "DS",
+    "prof": "NM",
+    "place": "AB-402",
+    "day": "5",
+    "startTime": "9",
+    "endTime": "10"
+  },
+  {
+    "id": "23",
+    "name": "C++",
+    "prof": "MK",
+    "place": "AB-402",
+    "day": "5",
+    "startTime": "10",
+    "endTime": "11"
+  },
+  {
+    "id": "24",
+    "name": "C++ LAB",
+    "prof": "SJ,SK,MK,RG",
+    "place": "MCA-LAB1",
+    "day": "5",
+    "startTime": "11",
+    "endTime": "13"
+  },
+  {
+    "id": "25",
+    "name": "Lunch Break",
+    "prof": "",
+    "place": "",
+    "day": "5",
+    "startTime": "13",
+    "endTime": "14"
+  },
+  {
+    "id": "26",
+    "name": "MIS",
+    "prof": "NM",
+    "place": "AB-402",
+    "day": "5",
+    "startTime": "14",
+    "endTime": "15"
+  },
+  {
+    "id": "27",
+    "name": "DBMS",
+    "prof": "BNN",
+    "place": "AB-402",
+    "day": "6",
+    "startTime": "9",
+    "endTime": "10"
+  },
+  {
+    "id": "0",
+    "name": "MIS",
+    "prof": "NM",
+    "place": "AB-402",
+    "day": "6",
+    "startTime": "10",
+    "endTime": "11"
+  }
+]

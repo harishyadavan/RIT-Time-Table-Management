@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "471702562906",
+    "firebase_url": "https://rit-time-table.firebaseio.com",
+    "project_id": "rit-time-table",
+    "storage_bucket": "rit-time-table.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471702562906:android:491534508f36f6f4",
+        "android_client_info": {
+          "package_name": "com.harish.rittimetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471702562906-e9rfb4v3tqil7aau6h6dbb6bmd76ph54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harish.rittimetable",
+            "certificate_hash": "631917f313e3cfaf9880047112d04aba21cc5c92"
+          }
+        },
+        {
+          "client_id": "471702562906-uuh4pvsq2a802pnbeviump97imu9dg7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harish.rittimetable",
+            "certificate_hash": "afdcd46c9697d68848583de47a429420593a65b6"
+          }
+        },
+        {
+          "client_id": "471702562906-r71aooa8hit22c81em5td8qddc2s5dtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADWbMwdbh6c6ijm6wrFThFO2gJxq_Z0fo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471702562906-r71aooa8hit22c81em5td8qddc2s5dtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471702562906:android:2651f6ed70815e5b",
+        "android_client_info": {
+          "package_name": "tr.xip.timetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471702562906-kr6m8j16usm9b2ac23btl39tv0fbce0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tr.xip.timetable",
+            "certificate_hash": "afdcd46c9697d68848583de47a429420593a65b6"
+          }
+        },
+        {
+          "client_id": "471702562906-r71aooa8hit22c81em5td8qddc2s5dtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADWbMwdbh6c6ijm6wrFThFO2gJxq_Z0fo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471702562906-r71aooa8hit22c81em5td8qddc2s5dtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
